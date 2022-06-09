@@ -2,16 +2,8 @@ QR Tools
 ========
 (c) 2022 Sam Caldwell.  See LICENSE.txt
 
-## About this project
-
-This project derives from the 2019 QRHacks project I wrote to create QR code mayhem for a pen test.
-That code was later used for the Combat Diver Foundation membership card stuff I did.  
-
-In this project we just take the same work and create two simple tools (QR Code reader and
-QR Code generator).
-
-QR codes are a great way to transmit a good deal of information over a visual medium.  Here we are only
-sending a static field and static value along with a dynamic uuid encoded as JSON in each QR.
+A simple set of QR code tools for testing, pen testing, observability or other
+interesting use cases.
 
 ## Functionality
 
